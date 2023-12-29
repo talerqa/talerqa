@@ -1,7 +1,6 @@
 ### Hi, I'm Aleksei Tarleko
 
 <div>
-<img align="right" src="https://raw.githubusercontent.com/talerqa/talerqa/main/techstack.gif" min-width="200px" max-width="250px" width="340px" alt="gif">
 <p align="left">
 Frontend developer with experience in <b>React, Redux, JavaScript, TypeScript, CSS, and HTML </b> for building single-page applications with a reliable user interface.
 </p>
